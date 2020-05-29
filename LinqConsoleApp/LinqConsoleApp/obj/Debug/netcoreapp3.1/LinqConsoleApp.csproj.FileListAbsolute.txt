@@ -1,0 +1,13 @@
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+F:\PJATK\APBD\Wyslane9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
